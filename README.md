@@ -1,6 +1,6 @@
 # Projeto Alura-01
 
-##Deploy do site:
+## Deploy do site:
 https://luanbrendon.github.io/ProjetoAlura-01-/
 
 Este é o repositório do Projeto Alura-01, um projeto em andamento que estou desenvolvendo como parte do curso de HTML e CSS da Alura. O objetivo deste projeto é aprimorar minhas habilidades como desenvolvedor web, aplicando os conceitos aprendidos durante o curso.
