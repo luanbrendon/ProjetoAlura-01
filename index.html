@@ -5,12 +5,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style/style.css">
     <title>Portifolio</title>
 </head>
 
 <body>
-    <header></header>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="index.html">Home</a>
+            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+        </nav>
+    </header>
     <main class="apresentacao">
         <section class="apresentacao__conteudo">
             <h1 class="apresentacao__conteudo__titulo">Eleve seu negócio digital a outro nível
@@ -20,13 +25,24 @@
                 em React, HTML e CSS. Ajudo pequenos
                 negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
             <div class="apresentacao__links">
-                <a class="apresentacao__links__link" href="https://www.instagram.com/">Instagram</a>
-                <a class="apresentacao__links__link" href="https://github.com/luanbrendon">GitHub</a>
+                <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
+                <a class="apresentacao__links__link" href="https://www.instagram.com/">
+                    <img src="Assets-aula2-curso3-html-e-css-main/assets/instagram.png" alt="icone do instagram" srcset="">
+                    Instagram</a>
+                <a class="apresentacao__links__link" href="https://github.com/luanbrendon">
+                    <img src="Assets-aula2-curso3-html-e-css-main/assets/github.png" alt="icone do github" srcset="">
+                    GitHub</a>
+                    <a class="apresentacao__links__link" href="https://www.linkedin.com/in/luan-brendon-138477208/">
+                        <img src="Assets-aula2-curso3-html-e-css-main/assets/linkedin.png" alt="" srcset="">
+                        Linkedin
+                    </a>
             </div>
         </section>
-        <img src="Imagem.png" alt="imagem de Luan">
+        <img src="Assets-aula2-curso3-html-e-css-main/assets/Imagem.png" alt="imagem de Luan">
     </main>
-    <footer></footer>
+    <footer class="rodape">
+        <p>Desenvolvido por Luan.</p>
+    </footer>
 </body>
 
 </html>
