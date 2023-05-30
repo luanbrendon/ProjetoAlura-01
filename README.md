@@ -9,6 +9,11 @@ Este é o repositório do Projeto Alura-01, um projeto em andamento que estou de
 
 O Projeto Alura-01 é uma aplicação web que visa demonstrar o conhecimento adquirido em HTML e CSS. Através deste projeto, estou explorando os fundamentos dessas tecnologias, incluindo a estruturação de páginas web, estilização de elementos, responsividade e layout.
 
+## Ferramentas usadas:
+- HTML
+- CSS
+- Flexbox
+
 ## Funcionalidades
 
 - [ ] Funcionalidade 1: Descrição da funcionalidade 1.
